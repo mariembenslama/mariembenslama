@@ -1,6 +1,12 @@
 # 💫 About Me:
-Mariem is a highly skilled Full Stack Software Engineer with over 5 years of experience in building scalable web applications and working with global teams. At Amptalk Corp, she specializes in AI speech analysis, leading cutting-edge projects that integrate advanced tech stacks like Elixir, TypeScript, and AWS. Her contributions have driven significant improvements in deployment efficiency and user engagement. With a passion for innovation and a track record of success in both full-time and part-time roles, Mariem excels in delivering high-quality software solutions that enhance business operations.
 
+- 🔭 I’m currently located in Japan and working at **Amptalk Corp** as a **Senior Full Stack Software Engineer**, focusing on **AI speech analysis**.
+- 💬 Ask me about **full-stack development**, **Elixir/Phoenix**, **AI & Machine Learning**, and **best practices in software engineering**.
+- 🚀 Always looking to collaborate on projects involving innovative tech and cutting-edge solutions.
+  
+# 📚 Reading
+- AWS in Actions, 2nd Edition
+- A Philosophy Of Software Design By John Ousterhout
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariem-ben-slama/) 
